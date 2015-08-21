@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silmaril", "Silmaril\Silmaril.csproj", "{DCACC2FA-6D7A-47DD-AC61-D32C5533E922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCACC2FA-6D7A-47DD-AC61-D32C5533E922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCACC2FA-6D7A-47DD-AC61-D32C5533E922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCACC2FA-6D7A-47DD-AC61-D32C5533E922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCACC2FA-6D7A-47DD-AC61-D32C5533E922}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

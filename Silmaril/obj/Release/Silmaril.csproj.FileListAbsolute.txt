@@ -1,0 +1,5 @@
+C:\Users\MaRioBoT\Documents\Visual Studio 2012\Projects\Silmaril\Silmaril\bin\Silmaril.dll
+C:\Users\MaRioBoT\Documents\Visual Studio 2012\Projects\Silmaril\Silmaril\bin\Silmaril.pdb
+C:\Users\MaRioBoT\Documents\Visual Studio 2012\Projects\Silmaril\Silmaril\obj\Release\Silmaril.dll
+C:\Users\MaRioBoT\Documents\Visual Studio 2012\Projects\Silmaril\Silmaril\obj\Release\Silmaril.pdb
+C:\Users\MaRioBoT\Documents\Visual Studio 2012\Projects\Silmaril\Silmaril\obj\Release\Silmaril.csprojResolveAssemblyReference.cache

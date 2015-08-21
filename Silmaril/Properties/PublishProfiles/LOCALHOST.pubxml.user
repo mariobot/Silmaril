@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Silmaril.dll">
+      <publishTime>10/18/2014 22:42:30</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="css/freelancer.css">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/css/font-awesome.css">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/css/font-awesome.min.css">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/fonts/fontawesome-webfont.eot">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/fonts/fontawesome-webfont.svg">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/fonts/fontawesome-webfont.ttf">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/fonts/fontawesome-webfont.woff">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/fonts/FontAwesome.otf">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/less/bordered-pulled.less">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/less/core.less">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/less/fixed-width.less">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/less/font-awesome.less">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/less/icons.less">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/less/larger.less">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/less/list.less">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/less/mixins.less">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/less/path.less">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/less/rotated-flipped.less">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/less/spinning.less">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/less/stacked.less">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/less/variables.less">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/scss/font-awesome.scss">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/scss/_bordered-pulled.scss">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/scss/_core.scss">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/scss/_fixed-width.scss">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/scss/_icons.scss">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/scss/_larger.scss">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/scss/_list.scss">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/scss/_mixins.scss">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/scss/_path.scss">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/scss/_rotated-flipped.scss">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/scss/_spinning.scss">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/scss/_stacked.scss">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="font-awesome-4.1.0/scss/_variables.scss">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="img/dislike.png">
+      <publishTime>10/18/2014 21:29:50</publishTime>
+    </File>
+    <File Include="img/img1.jpg">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/img2.jpg">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/like.png">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/portfolio/cabin.png">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/portfolio/cake.png">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/portfolio/circus.png">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/portfolio/game.png">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/portfolio/safe.png">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/portfolio/submarine.png">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/portfolio/Thumbs.db">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/profile.png">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/Thumbs.db">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/troll1.jpg">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/troll2.jpg">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/troll3.jpg">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/troll4.jpg">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/troll5.jpg">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="img/troll6.jpg">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="index3.html">
+      <publishTime>10/18/2014 21:31:52</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="js/cbpAnimatedHeader.js">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="js/cbpAnimatedHeader.min.js">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="js/classie.js">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="js/contact_me.js">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="js/freelancer.js">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="js/jqBootstrapValidation.js">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="js/jquery-1.11.0.js">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="less/freelancer.less">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="less/mixins.less">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="less/variables.less">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="mail/contact_me.php">
+      <publishTime>10/18/2014 21:29:51</publishTime>
+    </File>
+    <File Include="savetofile.aspx">
+      <publishTime>10/18/2014 21:39:10</publishTime>
+    </File>
+    <File Include="Upload.html">
+      <publishTime>10/18/2014 21:41:27</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/18/2014 22:42:30</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
